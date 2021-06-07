@@ -51,7 +51,7 @@ import java.util.stream.Collectors;
 
 public class SparkSessionManager {
 
-    private static final String APP_NAME = "jsoniq-on-spark";
+    private static final String APP_NAME = "cmsmonit-rumble";
     public static int COLLECT_ITEM_LIMIT = 0;
     private static SparkSessionManager instance;
     private static Level LOG_LEVEL = Level.FATAL;
